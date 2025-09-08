@@ -1,1 +1,27 @@
-/* Add CSS Styling */
+p {
+    background-color: rgb(243, 151, 167);
+}
+
+.number1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#number2 {
+    color: rgb(41, 41, 221);
+    font-size: 36px;
+}
+
+.number3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+}
+
+#number4 {
+    background-color: rgb(129, 207, 129);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.number5 {
+    font-family: sans-serif;
+}
